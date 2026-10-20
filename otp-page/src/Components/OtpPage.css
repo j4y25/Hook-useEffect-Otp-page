@@ -1,0 +1,46 @@
+*{
+    background: #A4E9DB
+
+;
+}
+.main{
+   
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 97vh;
+  
+
+}
+.otp-component{
+    width: 20vw;
+    height: 50vh;
+    background: #D3F4ED;
+   
+    border-radius: 15px;
+    
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    text-align: center;
+}
+.otp-box{
+    width: 35vh;
+    margin: 15px;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px; 
+}
+p{
+    background:transparent;
+    text-align: center;
+    font-size: 40px;
+  
+
+}
+button{
+    background:transparent;
+    border: none;
+    font-size: 20px;
+}
+button:hover{
+    color: blue;
+    text-decoration: underline;
+}
